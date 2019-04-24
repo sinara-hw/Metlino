@@ -3,7 +3,7 @@ Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component$ChannelAlpha
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -412,7 +412,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LHNHBWHW
 
 [Document23]
-DocumentPath=SI5324_CLK_RECOVERY.SchDoc
+DocumentPath=SI5324_CDR_WR_oscillators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -480,6 +480,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FWZCYCSJ
 
 [Document27]
+DocumentPath=Metlino.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document28]
 DocumentPath=Metlino_MCH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXRZGGKA
 
-[Document28]
+[Document29]
 DocumentPath=SI5324_CLK_RECOVERY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=Thermometers.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=USB_SERIAL_QUAD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=FMC_connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document33]
 DocumentPath=ETH_PHY_RMII_MII.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document34]
 DocumentPath=SFP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document35]
 DocumentPath=I2C_MUX.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=SDRAM_DDR3_4x16.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=ETH_PHY_RGMII.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=FPGA_XCKU040FFVA1156_MCH_FPGA_Banks_44_45_46_DDR64.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=MCH_FPGA_Banks_44_45_46_DDR64.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document40]
 DocumentPath=FPGA_XCKU040FFVA1156_MCH_FPGA_Banks_64_65_HR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=CPU_LPC1776.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document42]
 DocumentPath=CPU_LPC1776_SUP_PROG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGBRKXHV
 
-[Document42]
+[Document43]
 DocumentPath=MCH_FPGA_Banks_64_65_HR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=MCH_FPGA_Bank_47_48_67_HP_VHDCI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document45]
 DocumentPath=Metlino_CLK_Distribution.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document46]
 DocumentPath=MCH_FPGA_Banks_66_68_HP_FMC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document47]
 DocumentPath=Metlino_MCH.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document48]
 DocumentPath=Metlino.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -834,9 +851,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ADDACOGX
+DocumentUniqueId=QBEMELVT
 
-[Document48]
+[Document49]
 DocumentPath=MCH_FPGA_Bank_0_CFG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document50]
 DocumentPath=MCH_FPGA_Banks_224_225_226_227_228.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document51]
 DocumentPath=JTAG_Configuration.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document52]
 DocumentPath=POWER_Management.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document53]
 DocumentPath=VHDCI_CON.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,6 +938,131 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document54]
+DocumentPath=SI5324_CDR_WR_oscillators.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document55]
+DocumentPath=Metlino_QUAD_BUCK.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=28
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YYLQEKDK
+
+[Document56]
+DocumentPath=DDMTD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=29
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YKQQIXXS
+
+[Document57]
+DocumentPath=PWR_DC_DC_EXAR.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document58]
+DocumentPath=DDMTD.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=915A2DDF-2116-43BF-A260-204951484E5D
+Description=Default
+AllowFabrication=0
+ParameterCount=0
+VariationCount=32
+Variation1=Designator=R42|UniqueId=\EHBXRWCD\MOROEYIF|Kind=1|AlternatePart= 
+Variation2=Designator=R43|UniqueId=\EHBXRWCD\WFIICMFM|Kind=1|AlternatePart= 
+Variation3=Designator=R44|UniqueId=\EHBXRWCD\PWIESSZS|Kind=1|AlternatePart= 
+Variation4=Designator=R45|UniqueId=\EHBXRWCD\TWYTATBL|Kind=1|AlternatePart= 
+Variation5=Designator=R46|UniqueId=\EHBXRWCD\XTKZIYVR|Kind=1|AlternatePart= 
+Variation6=Designator=R305|UniqueId=\HWTFYSWV\SYVGLVEQ|Kind=1|AlternatePart= 
+Variation7=Designator=R306|UniqueId=\HWTFYSWV\VWGXNNGR|Kind=1|AlternatePart= 
+Variation8=Designator=R307|UniqueId=\HWTFYSWV\BEQKTLXS|Kind=1|AlternatePart= 
+Variation9=Designator=R308|UniqueId=\HWTFYSWV\MQPWYLPV|Kind=1|AlternatePart= 
+Variation10=Designator=4|UniqueId=\VSCUEITW\LPJMUFVF|Kind=1|AlternatePart= 
+Variation11=Designator=5|UniqueId=\VSCUEITW\KRGMKHNI|Kind=1|AlternatePart= 
+Variation12=Designator=6|UniqueId=\VSCUEITW\QUWFPTOC|Kind=1|AlternatePart= 
+Variation13=Designator=7|UniqueId=\VSCUEITW\PYYYTQUZ|Kind=1|AlternatePart= 
+Variation14=Designator=R174|UniqueId=\MLVHZJPA\HQFZXKMH|Kind=1|AlternatePart= 
+Variation15=Designator=R172|UniqueId=\MLVHZJPA\LYHZNARL|Kind=1|AlternatePart= 
+Variation16=Designator=R173|UniqueId=\MLVHZJPA\FZLHFKFX|Kind=1|AlternatePart= 
+Variation17=Designator=R186|UniqueId=\MLVHZJPA\OKDWBWNX|Kind=1|AlternatePart= 
+Variation18=Designator=R181|UniqueId=\MLVHZJPA\XCWZQTDR|Kind=1|AlternatePart= 
+Variation19=Designator=R182|UniqueId=\MLVHZJPA\LMOMXDAC|Kind=1|AlternatePart= 
+Variation20=Designator=R183|UniqueId=\MLVHZJPA\LPSWONCQ|Kind=1|AlternatePart= 
+Variation21=Designator=R167|UniqueId=\MLVHZJPA\MNRGEXRB|Kind=1|AlternatePart= 
+Variation22=Designator=R169|UniqueId=\MLVHZJPA\PPVFMRDR|Kind=1|AlternatePart= 
+Variation23=Designator=18|UniqueId=\FXAIHEAP\MVPCJKYE|Kind=1|AlternatePart= 
+Variation24=Designator=19|UniqueId=\FXAIHEAP\EORFUCJX|Kind=1|AlternatePart= 
+Variation25=Designator=20|UniqueId=\FXAIHEAP\VDMTUYPB|Kind=1|AlternatePart= 
+Variation26=Designator=21|UniqueId=\FXAIHEAP\UHTKOGSX|Kind=1|AlternatePart= 
+Variation27=Designator=C326|UniqueId=\EFHZJCGG\PVEMHOEU|Kind=1|AlternatePart= 
+Variation28=Designator=R353|UniqueId=\EFHZJCGG\WOWBIQPF|Kind=1|AlternatePart= 
+Variation29=Designator=R275|UniqueId=\FYAANDPO\UAMTBEVC|Kind=1|AlternatePart= 
+Variation30=Designator=R102_SFP1|UniqueId=\YJZHMBXH\LRCHYRYE|Kind=1|AlternatePart= 
+Variation31=Designator=R103_SFP1|UniqueId=\YJZHMBXH\SWDNMOJR|Kind=1|AlternatePart= 
+Variation32=Designator=R395|UniqueId=\BZOJHCHF\BWNCTXUF|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -930,6 +1072,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
