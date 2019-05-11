@@ -1028,7 +1028,7 @@ UniqueID=915A2DDF-2116-43BF-A260-204951484E5D
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=32
+VariationCount=34
 Variation1=Designator=R42|UniqueId=\EHBXRWCD\MOROEYIF|Kind=1|AlternatePart= 
 Variation2=Designator=R43|UniqueId=\EHBXRWCD\WFIICMFM|Kind=1|AlternatePart= 
 Variation3=Designator=R44|UniqueId=\EHBXRWCD\PWIESSZS|Kind=1|AlternatePart= 
@@ -1061,6 +1061,8 @@ Variation29=Designator=R275|UniqueId=\FYAANDPO\UAMTBEVC|Kind=1|AlternatePart=
 Variation30=Designator=R102_SFP1|UniqueId=\YJZHMBXH\LRCHYRYE|Kind=1|AlternatePart= 
 Variation31=Designator=R103_SFP1|UniqueId=\YJZHMBXH\SWDNMOJR|Kind=1|AlternatePart= 
 Variation32=Designator=R395|UniqueId=\BZOJHCHF\BWNCTXUF|Kind=1|AlternatePart= 
+Variation33=Designator=J3|UniqueId=\TGAKPSKM|Kind=1|AlternatePart= 
+Variation34=Designator=IC1|UniqueId=\HWTFYSWV\EUJXSIUA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
@@ -2257,6 +2259,28 @@ ModelTypeUpdate0=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=LTM_1V5_OUT|NetColor=$0000BE00
+Net2=NetName=LTM_1V_OUT|NetColor=$00FFFF6E
+Net3=NetName=VCCINT|NetColor=clYellow
+Net4=NetName=LTM_3V3_OUT|NetColor=$006EFF6E
+Net5=NetName=NetC533_2|NetColor=$006EFF6E
+Net6=NetName=VCCAUX|NetColor=$00FF6EFF
+Net7=NetName=P1V8|NetColor=$00FF6EFF
+Net8=NetName=P3V3|NetColor=$006EFF6E
+Net9=NetName=NetC356_2|NetColor=$00FFFF6E
+Net10=NetName=LTM_1V8_OUT|NetColor=$00FF6EFF
+Net11=NetName=GND|NetColor=$000000BF
+Net12=NetName=P0V95I|NetColor=clYellow
+Net13=NetName=P1V0|NetColor=$00FFFF6E
+Net14=NetName=MGTAVCC|NetColor=$00FFFF6E
+Net15=NetName=NetC431_2|NetColor=$006EFF6E
+Net16=NetName=P1V5|NetColor=$0000BE00
+Net17=NetName=MGTVCCAUX|NetColor=$00FF6EFF
+Net18=NetName=P12V0|NetColor=$006E6EFF
+Net19=NetName=NetC446_2|NetColor=$00FF6EFF
+Net20=NetName=NetC360_2|NetColor=$0000BE00
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
