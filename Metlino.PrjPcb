@@ -11,7 +11,7 @@ TimestampOutput=0
 SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
-PinSwapBy_Pin=1
+PinSwapBy_Pin=0
 AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
@@ -667,23 +667,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document38]
-DocumentPath=FPGA_XCKU040FFVA1156_MCH_FPGA_Banks_44_45_46_DDR64.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document39]
 DocumentPath=MCH_FPGA_Banks_44_45_46_DDR64.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,24 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
-DocumentPath=FPGA_XCKU040FFVA1156_MCH_FPGA_Banks_64_65_HR.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document41]
+[Document39]
 DocumentPath=CPU_LPC1776.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document40]
 DocumentPath=CPU_LPC1776_SUP_PROG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGBRKXHV
 
-[Document43]
+[Document41]
 DocumentPath=MCH_FPGA_Banks_64_65_HR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document42]
 DocumentPath=MCH_FPGA_Bank_47_48_67_HP_VHDCI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document43]
 DocumentPath=Metlino_CLK_Distribution.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document44]
 DocumentPath=MCH_FPGA_Banks_66_68_HP_FMC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document45]
 DocumentPath=Metlino_MCH.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document46]
 DocumentPath=Metlino.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBEMELVT
 
-[Document49]
+[Document47]
 DocumentPath=MCH_FPGA_Bank_0_CFG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document48]
 DocumentPath=MCH_FPGA_Banks_224_225_226_227_228.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document49]
 DocumentPath=JTAG_Configuration.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document50]
 DocumentPath=POWER_Management.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,24 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
-DocumentPath=VHDCI_CON.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document54]
+[Document51]
 DocumentPath=SI5324_CDR_WR_oscillators.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document52]
 DocumentPath=Metlino_QUAD_BUCK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YYLQEKDK
 
-[Document56]
+[Document53]
 DocumentPath=DDMTD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKQQIXXS
 
-[Document57]
+[Document54]
 DocumentPath=PWR_DC_DC_EXAR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,8 +955,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document55]
 DocumentPath=DDMTD.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document56]
+DocumentPath=VHDCI_CON.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1028,7 +994,7 @@ UniqueID=915A2DDF-2116-43BF-A260-204951484E5D
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=34
+VariationCount=58
 Variation1=Designator=R42|UniqueId=\EHBXRWCD\MOROEYIF|Kind=1|AlternatePart= 
 Variation2=Designator=R43|UniqueId=\EHBXRWCD\WFIICMFM|Kind=1|AlternatePart= 
 Variation3=Designator=R44|UniqueId=\EHBXRWCD\PWIESSZS|Kind=1|AlternatePart= 
@@ -1063,6 +1029,30 @@ Variation31=Designator=R103_SFP1|UniqueId=\YJZHMBXH\SWDNMOJR|Kind=1|AlternatePar
 Variation32=Designator=R395|UniqueId=\BZOJHCHF\BWNCTXUF|Kind=1|AlternatePart= 
 Variation33=Designator=J3|UniqueId=\TGAKPSKM|Kind=1|AlternatePart= 
 Variation34=Designator=IC1|UniqueId=\HWTFYSWV\EUJXSIUA|Kind=1|AlternatePart= 
+Variation35=Designator=R102A|UniqueId=\YVIFBKXI\LRCHYRYE|Kind=1|AlternatePart= 
+Variation36=Designator=R103A|UniqueId=\YVIFBKXI\SWDNMOJR|Kind=1|AlternatePart= 
+Variation37=Designator=R102B|UniqueId=\NLVXZERM\LRCHYRYE|Kind=1|AlternatePart= 
+Variation38=Designator=R103B|UniqueId=\NLVXZERM\SWDNMOJR|Kind=1|AlternatePart= 
+Variation39=Designator=R40|UniqueId=\EHBXRWCD\TMXLXIRV|Kind=1|AlternatePart= 
+Variation40=Designator=IC14|UniqueId=\BZOJHCHF\IHHUNJJW\DBXFGMMT|Kind=1|AlternatePart= 
+Variation41=Designator=L8|UniqueId=\BZOJHCHF\IHHUNJJW\LMJSKDDW|Kind=1|AlternatePart= 
+Variation42=Designator=MOD1|UniqueId=\BZOJHCHF\IHHUNJJW\AQRSOPQQ|Kind=1|AlternatePart= 
+Variation43=Designator=C231|UniqueId=\BZOJHCHF\IHHUNJJW\MENAKQQM|Kind=1|AlternatePart= 
+Variation44=Designator=C232|UniqueId=\BZOJHCHF\IHHUNJJW\WEEWHEQI|Kind=1|AlternatePart= 
+Variation45=Designator=C264|UniqueId=\BZOJHCHF\IHHUNJJW\LUXHAZGM|Kind=1|AlternatePart= 
+Variation46=Designator=C265|UniqueId=\BZOJHCHF\IHHUNJJW\ZUJTBTGN|Kind=1|AlternatePart= 
+Variation47=Designator=W11|UniqueId=\BZOJHCHF\IHHUNJJW\MCDYNUZY|Kind=1|AlternatePart= 
+Variation48=Designator=C518|UniqueId=\CSOLYIBP\GXQWNLQV\IXBMTBCD|Kind=1|AlternatePart= 
+Variation49=Designator=C520|UniqueId=\CSOLYIBP\GXQWNLQV\BRMZNDRN|Kind=1|AlternatePart= 
+Variation50=Designator=R282|UniqueId=\CSOLYIBP\RPGKAPHR|Kind=1|AlternatePart= 
+Variation51=Designator=R293|UniqueId=\CSOLYIBP\EDXQBVND|Kind=1|AlternatePart= 
+Variation52=Designator=C557|UniqueId=\CSOLYIBP\MHTHKMZE|Kind=1|AlternatePart= 
+Variation53=Designator=R324|UniqueId=\CSOLYIBP\VVCFNQVK|Kind=1|AlternatePart= 
+Variation54=Designator=R351|UniqueId=\CSOLYIBP\YPKCWXGZ|Kind=0|AlternatePart= 
+Variation55=Designator=C576|UniqueId=\CSOLYIBP\LLVCBKPB|Kind=0|AlternatePart= 
+Variation56=Designator=C577|UniqueId=\CSOLYIBP\CTBPSGGP|Kind=0|AlternatePart= 
+Variation57=Designator=R330|UniqueId=\CSOLYIBP\QYTDGIKG|Kind=1|AlternatePart= 
+Variation58=Designator=R352|UniqueId=\CSOLYIBP\FEOMAYZO|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
@@ -2264,23 +2254,36 @@ PartTypes=0
 Net1=NetName=LTM_1V5_OUT|NetColor=$0000BE00
 Net2=NetName=LTM_1V_OUT|NetColor=$00FFFF6E
 Net3=NetName=VCCINT|NetColor=clYellow
-Net4=NetName=LTM_3V3_OUT|NetColor=$006EFF6E
-Net5=NetName=NetC533_2|NetColor=$006EFF6E
-Net6=NetName=VCCAUX|NetColor=$00FF6EFF
-Net7=NetName=P1V8|NetColor=$00FF6EFF
-Net8=NetName=P3V3|NetColor=$006EFF6E
-Net9=NetName=NetC356_2|NetColor=$00FFFF6E
-Net10=NetName=LTM_1V8_OUT|NetColor=$00FF6EFF
-Net11=NetName=GND|NetColor=$000000BF
-Net12=NetName=P0V95I|NetColor=clYellow
-Net13=NetName=P1V0|NetColor=$00FFFF6E
-Net14=NetName=MGTAVCC|NetColor=$00FFFF6E
-Net15=NetName=NetC431_2|NetColor=$006EFF6E
-Net16=NetName=P1V5|NetColor=$0000BE00
-Net17=NetName=MGTVCCAUX|NetColor=$00FF6EFF
-Net18=NetName=P12V0|NetColor=$006E6EFF
-Net19=NetName=NetC446_2|NetColor=$00FF6EFF
-Net20=NetName=NetC360_2|NetColor=$0000BE00
+Net4=NetName=NetC268_2|NetColor=$000083FD
+Net5=NetName=PAYLOAD_PWR|NetColor=$006E6EFF
+Net6=NetName=NetC356_2|NetColor=$00FFFF6E
+Net7=NetName=GND|NetColor=$000000BF
+Net8=NetName=AVDD33|NetColor=$006EFF6E
+Net9=NetName=MGTAVCC|NetColor=$00FFFF6E
+Net10=NetName=FMC1_3P3VAUX|NetColor=$006EFF6E
+Net11=NetName=NetC431_2|NetColor=$006EFF6E
+Net12=NetName=P12V0_buck|NetColor=$006E6EFF
+Net13=NetName=FMC1_12P0V|NetColor=$006E6EFF
+Net14=NetName=P1V5|NetColor=$0000BE00
+Net15=NetName=P12V0|NetColor=$006E6EFF
+Net16=NetName=P12V0_Molex|NetColor=$006E6EFF
+Net17=NetName=NetC446_2|NetColor=$00FF6EFF
+Net18=NetName=NetC360_2|NetColor=$0000BE00
+Net19=NetName=P3V3MP|NetColor=$006EFF6E
+Net20=NetName=LTM_3V3_OUT|NetColor=$006EFF6E
+Net21=NetName=FMC1_POWER.FMC1_3P3VAUX|NetColor=$006EFF6E
+Net22=NetName=NetC533_2|NetColor=$006EFF6E
+Net23=NetName=VCCAUX|NetColor=$00FF6EFF
+Net24=NetName=P1V8|NetColor=$00FF6EFF
+Net25=NetName=P0V95I|NetColor=clYellow
+Net26=NetName=P3V3|NetColor=$006EFF6E
+Net27=NetName=LTM_1V8_OUT|NetColor=$00FF6EFF
+Net28=NetName=AVDD18|NetColor=$00FF6EFF
+Net29=NetName=FMC1_POWER.FMC1_12P0V|NetColor=$006E6EFF
+Net30=NetName=P1V0|NetColor=$00FFFF6E
+Net31=NetName=I_FMC1_P12V0+|NetColor=$006E6EFF
+Net32=NetName=MGTVCCAUX|NetColor=$00FF6EFF
+Net33=NetName=P3V3MP_BUCK|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
