@@ -412,7 +412,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LHNHBWHW
 
 [Document23]
-DocumentPath=SI5324_CDR_WR_oscillators.SchDoc
+DocumentPath=SI5324_CDR_DCXO_oscillators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -973,23 +973,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document56]
-DocumentPath=Copy of Metlino.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QSQISIJQ
-
-[Document57]
 DocumentPath=Metlino.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1004,14 +987,14 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JLESPHGK
+DocumentUniqueId=YMVQPOVK
 
 [ProjectVariant1]
 UniqueID=915A2DDF-2116-43BF-A260-204951484E5D
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=34
+VariationCount=42
 Variation1=Designator=R42|UniqueId=\EHBXRWCD\MOROEYIF|Kind=1|AlternatePart= 
 Variation2=Designator=R43|UniqueId=\EHBXRWCD\WFIICMFM|Kind=1|AlternatePart= 
 Variation3=Designator=R44|UniqueId=\EHBXRWCD\PWIESSZS|Kind=1|AlternatePart= 
@@ -1021,10 +1004,10 @@ Variation6=Designator=R305|UniqueId=\HWTFYSWV\SYVGLVEQ|Kind=1|AlternatePart=
 Variation7=Designator=R306|UniqueId=\HWTFYSWV\VWGXNNGR|Kind=1|AlternatePart= 
 Variation8=Designator=R307|UniqueId=\HWTFYSWV\BEQKTLXS|Kind=1|AlternatePart= 
 Variation9=Designator=R308|UniqueId=\HWTFYSWV\MQPWYLPV|Kind=1|AlternatePart= 
-Variation10=Designator=4|UniqueId=\VSCUEITW\LPJMUFVF|Kind=1|AlternatePart= 
-Variation11=Designator=5|UniqueId=\VSCUEITW\KRGMKHNI|Kind=1|AlternatePart= 
-Variation12=Designator=6|UniqueId=\VSCUEITW\QUWFPTOC|Kind=1|AlternatePart= 
-Variation13=Designator=7|UniqueId=\VSCUEITW\PYYYTQUZ|Kind=1|AlternatePart= 
+Variation10=Designator=4|UniqueId=\VSCUEITW\LPJMUFVF|Kind=0|AlternatePart= 
+Variation11=Designator=5|UniqueId=\VSCUEITW\KRGMKHNI|Kind=0|AlternatePart= 
+Variation12=Designator=6|UniqueId=\VSCUEITW\QUWFPTOC|Kind=0|AlternatePart= 
+Variation13=Designator=7|UniqueId=\VSCUEITW\PYYYTQUZ|Kind=0|AlternatePart= 
 Variation14=Designator=R174|UniqueId=\MLVHZJPA\HQFZXKMH|Kind=1|AlternatePart= 
 Variation15=Designator=R172|UniqueId=\MLVHZJPA\LYHZNARL|Kind=1|AlternatePart= 
 Variation16=Designator=R173|UniqueId=\MLVHZJPA\FZLHFKFX|Kind=1|AlternatePart= 
@@ -1034,10 +1017,10 @@ Variation19=Designator=R182|UniqueId=\MLVHZJPA\LMOMXDAC|Kind=1|AlternatePart=
 Variation20=Designator=R183|UniqueId=\MLVHZJPA\LPSWONCQ|Kind=1|AlternatePart= 
 Variation21=Designator=R167|UniqueId=\MLVHZJPA\MNRGEXRB|Kind=1|AlternatePart= 
 Variation22=Designator=R169|UniqueId=\MLVHZJPA\PPVFMRDR|Kind=1|AlternatePart= 
-Variation23=Designator=18|UniqueId=\FXAIHEAP\MVPCJKYE|Kind=1|AlternatePart= 
-Variation24=Designator=19|UniqueId=\FXAIHEAP\EORFUCJX|Kind=1|AlternatePart= 
-Variation25=Designator=20|UniqueId=\FXAIHEAP\VDMTUYPB|Kind=1|AlternatePart= 
-Variation26=Designator=21|UniqueId=\FXAIHEAP\UHTKOGSX|Kind=1|AlternatePart= 
+Variation23=Designator=18|UniqueId=\FXAIHEAP\MVPCJKYE|Kind=0|AlternatePart= 
+Variation24=Designator=19|UniqueId=\FXAIHEAP\EORFUCJX|Kind=0|AlternatePart= 
+Variation25=Designator=20|UniqueId=\FXAIHEAP\VDMTUYPB|Kind=0|AlternatePart= 
+Variation26=Designator=21|UniqueId=\FXAIHEAP\UHTKOGSX|Kind=0|AlternatePart= 
 Variation27=Designator=C326|UniqueId=\EFHZJCGG\PVEMHOEU|Kind=1|AlternatePart= 
 Variation28=Designator=R353|UniqueId=\EFHZJCGG\WOWBIQPF|Kind=1|AlternatePart= 
 Variation29=Designator=R275|UniqueId=\FYAANDPO\UAMTBEVC|Kind=1|AlternatePart= 
@@ -1046,7 +1029,19 @@ Variation31=Designator=R103_SFP1|UniqueId=\YJZHMBXH\SWDNMOJR|Kind=1|AlternatePar
 Variation32=Designator=R395|UniqueId=\BZOJHCHF\BWNCTXUF|Kind=1|AlternatePart= 
 Variation33=Designator=J3|UniqueId=\TGAKPSKM|Kind=1|AlternatePart= 
 Variation34=Designator=IC1|UniqueId=\HWTFYSWV\EUJXSIUA|Kind=1|AlternatePart= 
+Variation35=Designator=C299|UniqueId=\VSCUEITW\IBDXAXAL|Kind=1|AlternatePart= 
+Variation36=Designator=C298|UniqueId=\VSCUEITW\PBUEVGJD|Kind=1|AlternatePart= 
+Variation37=Designator=C297|UniqueId=\VSCUEITW\YWSXWKJP|Kind=1|AlternatePart= 
+Variation38=Designator=C296|UniqueId=\VSCUEITW\TYPQFZTZ|Kind=1|AlternatePart= 
+Variation39=Designator=C106|UniqueId=\FXAIHEAP\JDSVQJDF|Kind=1|AlternatePart= 
+Variation40=Designator=C118|UniqueId=\FXAIHEAP\IOPHSQML|Kind=1|AlternatePart= 
+Variation41=Designator=C119|UniqueId=\FXAIHEAP\XPCFJWJC|Kind=1|AlternatePart= 
+Variation42=Designator=C120|UniqueId=\FXAIHEAP\PCPTPSIH|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Metlino\Design Rule Check - Metlino.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
