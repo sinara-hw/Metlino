@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Metlino
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -1011,7 +1011,7 @@ UniqueID=915A2DDF-2116-43BF-A260-204951484E5D
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=49
+VariationCount=50
 Variation1=Designator=R42|UniqueId=\EHBXRWCD\MOROEYIF|Kind=1|AlternatePart= 
 Variation2=Designator=R43|UniqueId=\EHBXRWCD\WFIICMFM|Kind=1|AlternatePart= 
 Variation3=Designator=R44|UniqueId=\EHBXRWCD\PWIESSZS|Kind=1|AlternatePart= 
@@ -1061,10 +1061,15 @@ Variation46=Designator=R324|UniqueId=\CSOLYIBP\VVCFNQVK|Kind=1|AlternatePart=
 Variation47=Designator=R282|UniqueId=\CSOLYIBP\RPGKAPHR|Kind=1|AlternatePart= 
 Variation48=Designator=R293|UniqueId=\CSOLYIBP\EDXQBVND|Kind=1|AlternatePart= 
 Variation49=Designator=C557|UniqueId=\CSOLYIBP\MHTHKMZE|Kind=1|AlternatePart= 
+Variation50=Designator=MOD1|UniqueId=\BZOJHCHF\IHHUNJJW\AQRSOPQQ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Metlino\Design Rule Check - Metlino.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\ProCE38.xls
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1078,7 +1083,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Metlino
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1673,36 +1678,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
